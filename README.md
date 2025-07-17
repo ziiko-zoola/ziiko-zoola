@@ -50,7 +50,7 @@ Hi there! I'm **Ziiko Zoola**, a passionate developer  **Full Stack Web Develope
 ## 📬 Contact Me
 - 📧
 - +252611318633 (or use GitHub message)*
-- 🌐 Portfolio site: *Coming Soon...*
+- 🌐 Portfolio site: *ziiko*
 
 ---
 
