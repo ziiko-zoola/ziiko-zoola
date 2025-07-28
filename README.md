@@ -1,59 +1,73 @@
-# 👋 Salaam! I'm zaky suleiman 
-my nickName is ziiko zoola
+# 👋 Salaam! I'm Zaky Suleiman (Ziiko Zoola)
 
-### 🚀 Aspiring Full Stack Web Developer  
-Hi there! I'm **Ziiko Zoola**, a passionate developer  **Full Stack Web Developer**. I enjoy building creative and functional web applications using both front-end and back-end technologies.
+### 🚀 Full Stack Web Developer – Frontend-Focused, Learning Backend
 
----
-
-## 🧠 Skills & Tools I Use
-
-### 🖥️ Frontend
-- HTML5, CSS3, Tailwind CSS
-- JavaScript (ES6+)
-- React.js
-- Responsive Design & UI Principles
-
-### 🛠️ Backend *(In Progress)*
-- Node.js
-- Express.js
-- MongoDB
-
-### 🗂️ Version Control
-- Git & GitHub
+I'm **Ziiko Zoola**, a passionate **Full Stack Web Developer** based in Somalia. I studied web development at **IRise Academy**, where I gained strong skills in frontend development. I enjoy building clean, responsive, and interactive websites. While my main strength is in the frontend, I'm currently learning backend development to become a complete developer.
 
 ---
 
-## 📚 Currently Working On:
-- Mastering React.js through real projects
-- Learning backend development with Node.js and Express
-- Building a personal portfolio site
+## 🧠 Skills & Technologies
+
+### 🌐 Frontend
+
+* HTML5, CSS3, Tailwind CSS
+* JavaScript (ES6+)
+* React.js
+* Responsive Web Design
+* UI/UX Design Principles
+
+### 🧪 Backend (Learning)
+
+* Node.js
+* Express.js
+* MongoDB (Mongoose)
+
+### 🛠 Tools & Workflow
+
+* Git & GitHub
+* Visual Studio Code
+* Chrome DevTools
+* REST APIs
+* NPM
 
 ---
 
-## 💼 Projects I'm Building
-- ✅ **To-Do App** with React & Tailwind
-- ✅ **Image Slider App**
-- 🔄 **Full Portfolio Website** *(in progress)*
-- 🔜 **MERN Stack Project** – coming soon!
+## 🔧 Currently Improving
+
+* Mastering React.js through real projects
+* Expanding backend knowledge with Node.js, Express, and MongoDB
+* Building a complete personal portfolio website
+
+---
+
+## 💼 Projects
+
+| Project              | Tech Stack                    | Status      |
+| ------------------------| ------------------------------| ------------|
+| ✅ Dhayo Bile Optical  | React, Tailwind CSS           | Completed   |
+| ✅To-Do App            | React, CSS                    | Completed   |
+| 🔄 Portfolio Website   | React, Tailwind CSS           | In Progress |
+| 🔜 MERN Stack App      | MongoDB, Express, React, Node | Coming Soon |
 
 ---
 
 ## ✨ About Me
-- 🎓 Self-taught with strong dedication to learning
-- 📍 Based in Somalia
-- 💡 Believer in code simplicity, design clarity, and consistency
-- 🧱 Focused on building real-world apps and freelancing soon
+
+* 🎓 Trained at IRise Academy with practical project experience
+* 📍 Based in Somalia
+* 💡 Passionate about clean code, intuitive design, and problem-solving
+* 🧱 Focused on building real-world apps and becoming a freelancer
 
 ---
 
 ## 📬 Contact Me
-- 📧
-- +252611318633 (or use GitHub message)*
-- 🌐 Portfolio site: *ziiko*
+
+* 📧 Email: [ziikozoola@gmail.com](mailto:ziikozoola@gmail.com)
+* 📱 Phone: +252 611 318 633
+* 🌐 Portfolio: *Coming soon...*
+* 💼 GitHub: [github.com/ziikozoola](https://github.com/ziikozoola)
 
 ---
 
-
-> — Ziiko Zoola,  Full Stack Developer 🌍
-
+> “Consistency beats intensity. I show up every day to build a better version of myself — one line of code at a time.”
+> — *Ziiko Zoola, Full Stack Developer 🌍*
