@@ -45,6 +45,8 @@ I'm **Ziiko Zoola**, a passionate **Full Stack Web Developer** based in Somalia.
 | Project              | Tech Stack                    | Status      |
 | ------------------------| ------------------------------| ------------|
 | ✅ Dhayo Bile Optical  | React, Tailwind CSS           | Completed   |
+|✅system student managmnet  |React Tailwind CSS          |completed    |
+|Roses Flowrs                 | React Tailwind Css          |Completed     |
 | ✅system project managment            | React Tailwind &Express, Mongoose, Node.js                   | Completed   |
 | 🔄 Portfolio Website   | React, Tailwind CSS           | In Progress |
 | 🔜 MERN Stack App      | MongoDB, Express, React, Node | Coming Soon |
